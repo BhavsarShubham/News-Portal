@@ -1,0 +1,8 @@
+.mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-img-top{
+    height: 180px;
+    width: 243px;
+}
